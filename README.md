@@ -1,1 +1,1 @@
-`bash <(curl -fsSL https://github.com/rayjan0114/automation/blob/main/termux.sh)`
+`bash <(curl -fsSL https://raw.githubusercontent.com/rayjan0114/automation/main/termux.sh)`
